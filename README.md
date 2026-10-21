@@ -1,2 +1,0 @@
-# Seminario
-Hormigas ACO
